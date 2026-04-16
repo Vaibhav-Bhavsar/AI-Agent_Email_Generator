@@ -130,5 +130,3 @@ See `reports/analysis_summary.txt` for the full comparative analysis.
 
 ---
 
-## 📄 License
-MIT
